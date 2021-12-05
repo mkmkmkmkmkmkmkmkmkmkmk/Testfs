@@ -1,0 +1,9 @@
+注释@annotation.caculator.Check()检测出add方法出异常了
+异常名称：NullPointerException
+异常原因：Cannot invoke "String.toString()" because "str" is null
+----------------------
+注释@annotation.caculator.Check()检测出div方法出异常了
+异常名称：ArithmeticException
+异常原因：/ by zero
+----------------------
+这次测试一共出现2次异常
